@@ -14,7 +14,7 @@ align-items = disposicion en que queremos mostrar los elementos
 .container{
     height: 100vh;
     width: 100%;
-    background-image: url(../images/background.png);
+    background-image: url(../static.images/background.png);
     background-size: cover;
     padding-left: 5%;
     padding-right: 5%;
@@ -31,7 +31,7 @@ align-items = disposicion en que queremos mostrar los elementos
     
 }
 .logo{
-    width: 160 px;
+    width: 160px;
     cursor: pointer;
 }
 nav ul li{
@@ -51,10 +51,10 @@ nav ul li a{
     
 }
 .content h1{
-    font-size: 20x;
+    font-size: 20px;
     font-weight: 100;
     margin-top: 24px;
-    margin-bottom: 15 px;
+    margin-bottom: 15px;
     color:#660066
        
 }
